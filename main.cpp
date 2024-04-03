@@ -15,9 +15,6 @@ int main() {
     /// Время SFML
     Clock clock;
 
-    /// Кириллица
-    setlocale(LC_ALL, "rus");
-
     /// Сброс вида
     view.reset(FloatRect(0, 0, VideoMode::getDesktopMode().width, VideoMode::getDesktopMode().height));
 

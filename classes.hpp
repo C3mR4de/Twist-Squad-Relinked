@@ -11,6 +11,7 @@
 #include <vector> /// Вектора
 #include <list> /// Двусвязные списки
 #include <thread> /// Потоки
+#include <cmath>
 ///#include <DiscordGameSDK/image_manager.h>
 
 using namespace std; /// Пространство имён std
