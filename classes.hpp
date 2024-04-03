@@ -12,11 +12,9 @@
 #include <list> /// Двусвязные списки
 #include <thread> /// Потоки
 #include <cmath>
-///#include <DiscordGameSDK/image_manager.h>
 
 using namespace std; /// Пространство имён std
 using namespace sf; /// Пространство имён sf
-///using namespace discord;
 
 /// Персонажи в перечислении
 enum Type {
